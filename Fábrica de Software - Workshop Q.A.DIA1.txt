@@ -1,0 +1,30 @@
+Fábrica de Software - Workshop Q.A.
+Desafio 1 - Analisar site Seu Barriga 
+Seu Barriga - Home (wcaquino.me)
+chico@gmail.com
+12345
+
+  #Página de login
+
+erro 1: ao digitar a senha incorreta o site não especifica qual é o problema ex.:(”senha incorreta”)
+
+  # Página inicial
+
+ não é intuitiva. na página inicial não existe nada que indique a sua finalidade 
+
+  #Sugestões
+
+adicionar nova aba para salvar comprovantes de pagamento
+notificações de alerta para futuros pagamentos e pagamentos em atraso e/ou quando a data do próximo pagamento estiver se aproximando
+
+  #Movimentação
+
+erro 1: não existe indicação de que todos os campos devem ser preenchidos obrigatoriamente 
+sugestão 1: indicar campos obrigatórios e indicar quais não foram preenchidos 
+erro 2: ao mudar da aba “criar movimentação” para “resumo mensal” e retornar, os dados são perdidos
+sugestão 2: salvar dados ao mudar e retornar para a aba anterior para evitar que o usuário preencha novamente todos os dados
+           
+  #Bug
+
+ao criar nova movimentação. no campo “conta” (que é obrigatório) não consegui adicionar a contar, portanto não foi possível concluir a movimentação
+
